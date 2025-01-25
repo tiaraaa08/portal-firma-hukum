@@ -172,7 +172,7 @@ Last change:    00/00/00
 						thickness: 5,
 						lineCap: 'round',
 						fill: {
-							gradient: ['#b89b5e', ['#b89b5e', 0.7]],
+							gradient: ['#1a447c', ['#1a447c', 0.7]],
 							gradientAngle: Math.PI * -0.3
 						}  
 					});
