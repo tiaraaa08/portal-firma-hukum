@@ -159,9 +159,9 @@ Color Code
 .about_service_section .about_service_box .abt_service_text span,
 .slider_style_three .slider_contect_box .slider_text p,
 .slider_style_two .slider_contect_box .slider_text p {
-  font-size: 14px;
+  font-size: 1rem;
   font-weight: 700;
-  color: #1a447c;
+  color: #063772;
   letter-spacing: 3px;
   text-transform: uppercase;
 }
@@ -281,7 +281,7 @@ Color Code
 .section_title_area p .title_shape_right:after {
   content: "";
   position: absolute;
-  background-color: #1a447c;
+  background-color: #7c94b4;
 }
 .section_title_area p .title_shape_right:before {
   top: 8px;
@@ -407,11 +407,11 @@ Color Code
 }
 .header_style_theree .call_to_quote .call_number,
 .header_style_two .call_to_quote .call_number {
-  color: #1a447c;
+  color: #3c648c;
 }
 .header_style_theree .call_to_quote .call_icon i,
 .header_style_two .call_to_quote .call_icon i {
-  color: #1a447c;
+  color: #3c648c;
 }
 
 .slider_style_three .slider_contect_box,
@@ -941,7 +941,7 @@ div#preloader {
   width: 100%;
   height: 100%;
   overflow: visible;
-  background: #282828 url("../img/preloader.gif") no-repeat center center;
+  background: #1a447c url("../img/preloader.gif") no-repeat center center;
 }
 
 [data-background] {
@@ -1045,18 +1045,19 @@ select:visited {
 
 .section_title_area p {
   font-weight: 700;
-  color: #1a447c;
+  color: #063772;
   letter-spacing: 3px;
   padding-bottom: 10px;
   text-transform: uppercase;
 }
-.achivement_text .section_title_area p, .choose_us_content .section_title_area p{
+.achivement_text .section_title_area p, .choose_us_content .why_choose_left .section_title_area p {
   font-weight: 700;
   color: #738cb3;
   letter-spacing: 3px;
   padding-bottom: 10px;
   text-transform: uppercase;
 }
+
 .section_title_area h2 {
   font-size: 60px;
   font-weight: 600;
@@ -1415,12 +1416,12 @@ select:visited {
 }
 .header_style_two .qoute_btn {
   color: #fff;
-  font-size: 14px;
+  font-size: 1rem;
   margin: 20px 30px 0px 0px;
-  background-color: #1a447c;
+  background-color: #063772;
 }
 .header_style_two .qoute_btn a {
-  padding: 15px 30px 13px 35px;
+  padding: 0.94rem 1.9rem 0.8rem 2.2rem;
 }
 
 /*Header Style 3*/
@@ -1790,7 +1791,7 @@ select:visited {
   -webkit-transform: rotate(-90deg);
   -ms-transform: rotate(-90deg);
   transform: rotate(-90deg);
-  background-color: #1a447c;
+  background-color: #063772;
 }
 .slider_side_btn i {
   font-size: 20px;
@@ -3378,7 +3379,7 @@ select:visited {
   margin-right: 15px;
   background-color: #fff;
   padding: 80px 55px 70px 55px;
-  border-top: 10px solid #1a447c;
+  border-top: 10px solid #063772;
   -webkit-box-shadow: 0px 16px 32px 0px rgba(0, 0, 0, 0.06);
   box-shadow: 0px 16px 32px 0px rgba(0, 0, 0, 0.06);
 }
@@ -3415,36 +3416,36 @@ select:visited {
 }
 .choose_form_area .contact-info input::-webkit-input-placeholder,
 .choose_form_area .contact-info textarea::-webkit-input-placeholder {
-  font-size: 24px;
+  font-size: 1.2rem;
   color: #cccccc;
 }
 .choose_form_area .contact-info input::-moz-placeholder,
 .choose_form_area .contact-info textarea::-moz-placeholder {
-  font-size: 24px;
+  font-size: 1.2rem;
   color: #cccccc;
 }
 .choose_form_area .contact-info input:-ms-input-placeholder,
 .choose_form_area .contact-info textarea:-ms-input-placeholder {
-  font-size: 24px;
+  font-size: 1.2rem;
   color: #cccccc;
 }
 .choose_form_area .contact-info input::-ms-input-placeholder,
 .choose_form_area .contact-info textarea::-ms-input-placeholder {
-  font-size: 24px;
+  font-size: 1.2rem;
   color: #cccccc;
 }
 .choose_form_area .contact-info input::placeholder,
 .choose_form_area .contact-info textarea::placeholder {
-  font-size: 24px;
+  font-size: 1.2rem;
   color: #cccccc;
 }
 .choose_form_area .sub-button button {
   color: #fff;
-  font-size: 14px;
+  font-size: 1rem;
   margin-top: 20px;
   padding: 20px 40px;
   text-transform: uppercase;
-  background-color: #1a447c;
+  background-color: #063772;
 }
 
 /*---------------------------------------------------- */
@@ -3900,7 +3901,7 @@ select:visited {
   display: block;
 }
 .team_details_section .team_profile .team_name_designation .team_degi {
-  font-size: 14px;
+  font-size: 1rem;
 }
 .team_details_section .team_profile .team_name_designation .team_name {
   font-size: 40px;
@@ -5956,7 +5957,7 @@ select:visited {
 }
 .contact_d_icontext .con_bg i {
   font-size: 180px;
-  color: #f7f0e2;
+  color:rgb(225, 235, 248);
 }
 .contact_d_icontext:hover .con_bg {
   opacity: 1;
@@ -6059,7 +6060,7 @@ select:visited {
   width: 16.8rem;
   float: left;
   margin: 15px;
-  border: 2px solid #f4efe4;
+  border: 2px solid #adc5e1;
 }
 .faq_section .faq_topic .nav-item a {
   font-weight: 700;
@@ -7048,6 +7049,11 @@ select:visited {
     top: 40px;
   }
 
+  .footer_logo {
+    width: 290px;
+    margin: auto;
+  }
+
   .header_style_theree.menu-bg-overlay .mobile_menu_button {
     top: 30px;
   }
@@ -7219,6 +7225,11 @@ select:visited {
     max-width: 270px;
     margin: 0 auto;
     margin-bottom: 40px;
+  }
+
+  .footer_logo {
+    width: 290px;
+    margin: auto;
   }
 
   .service_section_two:before,
@@ -7481,6 +7492,11 @@ select:visited {
     margin: 0 auto 40px;
   }
 
+  .footer_logo {
+    width: 250px;
+    margin: auto;
+  }
+
   .team_page_member {
     max-width: 370px;
     display: inline-block;
@@ -7563,6 +7579,11 @@ select:visited {
 
   .breadcrumb_section .breadcrumb_watermark {
     font-size: 70px;
+  }
+
+  .footer_logo {
+    width: 210px;
+    margin: auto;
   }
 
   .breadcrumb_section .slider_side_btn {
@@ -7667,6 +7688,11 @@ select:visited {
     float: none;
     text-align: inherit;
     margin: 10px 0px;
+  }
+
+  .footer_logo {
+    width: 200px;
+    margin: auto;
   }
 
   .contactpage_details {
@@ -7903,6 +7929,11 @@ select:visited {
   .slider_style_three .slider_contect_box {
     max-width: 700px;
     padding: 140px 0px 100px 40px;
+  }
+
+  .footer_logo {
+    width: 180px;
+    margin: auto;
   }
 
   .slider_style_two .slider_contect_box .slider_btn li,
